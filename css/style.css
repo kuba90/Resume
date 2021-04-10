@@ -1,0 +1,87 @@
+/* h3 */
+h3{
+    font-weight: bold;
+    padding: 100px 0 0 0;
+}
+/* h4 */
+h4{
+    font-size: 1rem !important;
+}
+/* div */
+div{
+    margin-bottom: 20px;
+}
+/* container */
+.container{
+    max-width: 1140px;
+}
+
+/* class navbar img */
+.navbar-brand img{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+}
+/* class header */
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background: url(https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/01/11140027/send-email-1024x512.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* education */
+.education{
+    margin: 0;
+   
+}
+/* experience */
+.experience{
+    
+    margin: 0;
+   
+}
+/* skills */
+.skills{
+    margin: 30px 0 0 0;
+}
+/* personal */
+.personal__skills{
+    margin: 30px 0 0 0;
+}
+/* personal skills progress */
+.personal__skills .progress{
+    margin-bottom: 15px;
+    display: block !important;
+}
+/* class col */
+.col{
+    opacity: .5;
+}
+/* class col hover */
+.col:hover{
+opacity: 4;
+}
+/* a */
+a{
+    opacity: .7;
+}
+/* a hover */
+a:hover{
+    opacity: 2;
+}
+/* class card-body */
+.card-body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+/* class card img */
+.card img{
+    margin: 15px auto;
+    height: 150px;
+}
